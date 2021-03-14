@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/vince/.virtualenvs/authorsite/bin/python",
+    "editor.formatOnSave": true,
+    "html.format.templating": true,
+    "prettier.enable": false,
+    "prettier.disableLanguages": [
+        "HTML"
+    ]
+}
